@@ -55,6 +55,10 @@ Este proyecto consiste en el análisis de datos de un hipermercado con el objeti
 hipermercado-analisis/ ├── README.md └── Dashboard/ └── hipermercado_dashboard.pbix 
 
 ---
+📌 **Visualización en línea**
+
+👉 Podés ver el informe completo en Power BI en este enlace:
+ [🔗 Reporte Hipermercado](https://app.powerbi.com/view?r=eyJrIjoiNmNlN2UzNGMtNzU3Yi00M2NlLTgxMWQtZDFjNWRlYWI5M2NhIiwidCI6ImQxNDIxOTAxLWMxNzMtNGFiNS1hNGQ3LTlkYjE2NDNlNjFkMyIsImMiOjR9)
 
 ### 👩‍💻 Autora
 
